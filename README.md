@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/laxmidahar ojha" target="blank"><img src="https://img.shields.io/twitter/follow/laxmidahar ojha?logo=twitter&style=for-the-badge" alt="laxmidahar ojha" /></a> </p>
 
-- 🔭 I’m currently working on [TravelNest](https://travelnest-tpsb.onrender.com/listings)
 
 - 📫 How to reach me **laxmidharojha2003@gmail.com**
 
